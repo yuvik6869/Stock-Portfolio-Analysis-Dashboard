@@ -43,10 +43,9 @@ Performed in **Power Query**:
 - Profit/Loss  
 - Profit/Loss %  
 - CAGR  
-- YTD/MTD returns  
+- YTD returns  
 - Volatility (Std Dev)  
 - Portfolio Allocation %  
-- Benchmark difference  
 
 ---
 
