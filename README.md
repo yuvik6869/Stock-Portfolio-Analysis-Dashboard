@@ -18,7 +18,7 @@ The goal is to provide a **complete picture of portfolio health**, including ret
 - 📈 Track portfolio growth vs. invested capital  
 - 🧩 Sector & market diversification analytics  
 - 🔍 Drill-down for stock-level decision insights  
-
+- 🗓  Custom time-period selection and capital amount selection using dynamic filters
 ---
 
 ## 🧹 Data Preparation
